@@ -9,6 +9,9 @@ Big keyboard. Keep it simple: just type and output.
     <img src="images/showcase.gif" alt="showcase" width="600"/>
 </p>
 
+## ToDo
+- Dynamic UI Resizing 
+
 ## Feature Ideas
 - Keyboard Layouts
 - Language specific characters
